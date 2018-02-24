@@ -1,0 +1,12 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_8_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text font-style="normal" font-weight="bold" filter="url(#svg_8_blur)" stroke="#000000" transform="matrix(3.059952244966253,0,0,2.5297501116703085,-493.8582103277787,-285.4712630428382) " xml:space="preserve" text-anchor="start" font-family="'League Gothic', sans-serif" font-size="45" id="svg_8" y="199" x="202.359375" stroke-width="2" fill="#ff7f00">MKM</text>
+ </g>
+</svg>
